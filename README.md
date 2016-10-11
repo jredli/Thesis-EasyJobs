@@ -1,2 +1,1 @@
-# Thesis-EasyJobs
-This is a repository for my thesis
+This is my thesis done in Codeigniter framework.
